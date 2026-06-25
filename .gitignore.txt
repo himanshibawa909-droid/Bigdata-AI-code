@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional - uncomment if large)
+# *.csv
+# /data/
+
+# Results (optional - uncomment if large)
+# /results/
+# *.png
+
+# Python
+*.pyc
+*.egg-info/
+dist/
+build/
